@@ -1,0 +1,27 @@
+{
+  "name": "merge-arrays-project",
+  "version": "1.0.0",
+  "description": "TypeScript project with merge function and unit tests",
+  "main": "dist/merge.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage"
+  },
+  "keywords": [
+    "typescript",
+    "merge",
+    "arrays"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^29.5.12",
+    "@types/node": "^20.11.5",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.1.2",
+    "typescript": "^5.3.3"
+  }
+}
+
