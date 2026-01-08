@@ -3,11 +3,11 @@
 ## Tests
 
 Unit tests:
--merge three arrays correctly
--handle empty arrays
--handle all values from empty collections
--handle arrays with duplicate value
--should handle negative numbers
+- merge three arrays correctly
+- handle empty arrays
+- handle all values from empty collections
+- handle arrays with duplicate value
+- should handle negative numbers
 
 ## การติดตั้ง Dependencies
 
